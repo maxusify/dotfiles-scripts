@@ -11,6 +11,8 @@ their behaviour by editing `config.sh`.
 
 ### Usage
 
+You have to install `gnome-screenshot` on your system.
+
 Bind these scripts with your keyboard shortcuts by using:
 ```bash
   # Area screenshot
