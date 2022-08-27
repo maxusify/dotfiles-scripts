@@ -3,7 +3,7 @@
 In this repository you can find scripts that I mainly use on daily basis.  
 Feel free to use them at your will.  
 
-## gnome-screeshot
+## gnome-screenshot
 
 This folder contains custom scripts for area, window and fullscreen screenshots.  
 You can (and probably have to because folder path may be different for you) modify  
