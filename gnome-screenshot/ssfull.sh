@@ -8,4 +8,4 @@ source "$CONFIG_DIR/config.sh"
 mkdir -p $SCRSHT_FOLDER
 
 # Window screenshot
-gnome-screenshot -f "$SCRSHT_FOLDER/$SCRSHT_NAME" 
+gnome-screenshot -c -f "$SCRSHT_FOLDER/$SCRSHT_NAME" 
